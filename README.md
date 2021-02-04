@@ -4,11 +4,6 @@ hola, mamguebo
 yamete kudasai
 hello
 esto aburre
-<<<<<<< HEAD
-AK AFSADFAS
->>>>>>> main
-<<<<<<< HEAD
-ramas adadek
-=======
-esta es la secundaria
->>>>>>> BRANKETA
+
+
+cambiooooooooooooooooooooooo
